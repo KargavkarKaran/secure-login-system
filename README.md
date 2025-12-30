@@ -11,8 +11,8 @@
 </ul>
 
 <p>
-  GitHub Repo:
-  <a href="https://github.com/KargavkarKaran/secure-login-system" target="https://secure-login-system-ui.vercel.app/login">
+  Deploy Link :
+  <a href="https://secure-login-system-ui.vercel.app/login" target="_blank>
     Secure Login System
   </a>
 </p>
