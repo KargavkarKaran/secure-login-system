@@ -10,7 +10,12 @@
   <li>Prevention of unauthorized access to APIs</li>
 </ul>
 
-<a href="[https://www.google.com](https://secure-login-system-ui.vercel.app/login)">Deploy link of secire login system</a>
+<p>
+  GitHub Repo:
+  <a href="https://github.com/KargavkarKaran/secure-login-system" target="https://secure-login-system-ui.vercel.app/login">
+    Secure Login System
+  </a>
+</p>
 
 
 <h3>Tech Stack</h3>
