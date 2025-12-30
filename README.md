@@ -12,7 +12,7 @@
 
 <p>
   Deploy Link :
-  <a href="https://secure-login-system-ui.vercel.app/login" target="_blank>
+  <a href="https://secure-login-system-ui.vercel.app/login" target="_blank">
     Secure Login System
   </a>
 </p>
